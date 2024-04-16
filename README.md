@@ -1,4 +1,6 @@
 # ativ_sad
+# Iniciando o ambiente
+![alt text](image-24.png)
 
 # Criando banco de dados
 ![alt text](image-1.png)
